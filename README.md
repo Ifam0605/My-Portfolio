@@ -1,7 +1,9 @@
 # My Portfolio
 
 Welcome to my personal portfolio repository!  
-This project showcases my skills, projects, and experiences in web development and software engineering.  
+This project showcases my skills, projects, and experiences in web development and software engineering.
+
+![preview img](preview.png)****
 
 ## 🚀 Features
 - Responsive personal portfolio website  
