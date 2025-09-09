@@ -16,10 +16,10 @@ This project showcases my skills, projects, and experiences in web development a
 
 ## 📂 Repository
 You can find this repository here:  
-👉 [My-Portfolio](https://github.com/Mohammed-Sasni/My-Portfolio)
+👉 [My-Portfolio](https://github.com/Ifam0605/My-Portfolio.git)
 
 ## 🌐 Live Demo
-[Visit My Portfolio](https://asms-devfolio.netlify.app/)  
+[Visit My Portfolio](https://my-portfolio-ifam05.netlify.app/)  
 
 
 ## 📬 Contact
