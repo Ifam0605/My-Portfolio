@@ -3,7 +3,10 @@
 Welcome to my personal portfolio repository!  
 This project showcases my skills, projects, and experiences in web development and software engineering.
 
-![preview img](preview.png)****
+![preview img](preview.png)
+
+## 🌐 Live Demo
+[Visit My Portfolio](https://my-portfolio-ifam05.netlify.app/)  
 
 ## 🚀 Features
 - Responsive personal portfolio website  
@@ -19,9 +22,6 @@ This project showcases my skills, projects, and experiences in web development a
 ## 📂 Repository
 You can find this repository here:  
 👉 [My-Portfolio](https://github.com/Ifam0605/My-Portfolio.git)
-
-## 🌐 Live Demo
-[Visit My Portfolio](https://my-portfolio-ifam05.netlify.app/)  
 
 
 ## 📬 Contact
