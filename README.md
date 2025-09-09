@@ -24,9 +24,9 @@ You can find this repository here:
 
 ## 📬 Contact
 Feel free to reach out to me:  
-* GitHub: [Ifam0605](https://github.com/Ifam0605)
-* LinkedIn: [Ifam-rahman](https://www.linkedin.com/in/ifam-rahman/)
-* Email: [rahmanifam2005@gmail.com](mailto:rahmanifam2005@gmail.com)
+- GitHub: [Mohammed-Sasni](https://github.com/Mohammed-Sasni)  
+- Email: *sasniasms@gmail.com*  
+- LinkedIn: [Mohammed-Sasni](https://www.linkedin.com/in/mohammed-sasni/)  
 
 ---
 
