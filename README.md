@@ -1,7 +1,12 @@
 # My Portfolio
 
 Welcome to my personal portfolio repository!  
-This project showcases my skills, projects, and experiences in web development and software engineering.  
+This project showcases my skills, projects, and experiences in web development and software engineering.
+
+![preview img](preview.png)
+
+## 🌐 Live Demo
+[Visit My Portfolio](https://my-portfolio-ifam05.netlify.app/)  
 
 ## 🚀 Features
 - Responsive personal portfolio website  
@@ -16,17 +21,14 @@ This project showcases my skills, projects, and experiences in web development a
 
 ## 📂 Repository
 You can find this repository here:  
-👉 [My-Portfolio](https://github.com/Mohammed-Sasni/My-Portfolio)
-
-## 🌐 Live Demo
-[Visit My Portfolio](https://asms-devfolio.netlify.app/)  
+👉 [My-Portfolio](https://github.com/Ifam0605/My-Portfolio.git)
 
 
 ## 📬 Contact
 Feel free to reach out to me:  
-- GitHub: [Mohammed-Sasni](https://github.com/Mohammed-Sasni)  
-- Email: *sasniasms@gmail.com*  
-- LinkedIn: [Mohammed-Sasni](https://www.linkedin.com/in/mohammed-sasni/)  
+* GitHub: [Ifam0605](https://github.com/Ifam0605)
+* LinkedIn: [Ifam-rahman](https://www.linkedin.com/in/ifam-rahman/)
+* Email: [rahmanifam2005@gmail.com](mailto:rahmanifam2005@gmail.com) 
 
 ---
 
